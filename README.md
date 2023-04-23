@@ -1,7 +1,7 @@
 # Tourist Go!
 Tourist go is a mobile app that allow users to check in a certain locations and log them with photos!
 
-This software is designed as is for LA Hacks 202.
+This software is designed as is for LA Hacks 2023.
 ## Installation
 ## Usage example
 
